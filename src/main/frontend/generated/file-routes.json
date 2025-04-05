@@ -1,0 +1,12 @@
+[
+  {
+    "route": "",
+    "menu": {
+      "order": 0,
+      "icon": "line-awesome/svg/file.svg"
+    },
+    "title": "Control de Horas",
+    "flowLayout": true,
+    "params": {}
+  }
+]

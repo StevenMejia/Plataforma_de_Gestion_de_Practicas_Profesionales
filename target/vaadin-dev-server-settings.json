@@ -1,0 +1,17 @@
+{
+  "frontendFolder": "C:/Users/steve/Downloads/Parcial1_DAWfuncional/src/main/frontend",
+  "themeFolder": "themes",
+  "themeResourceFolder": "C:/Users/steve/Downloads/Parcial1_DAWfuncional/src/main/frontend/generated/jar-resources",
+  "staticOutput": "C:/Users/steve/Downloads/Parcial1_DAWfuncional/target/classes/META-INF/VAADIN/webapp/VAADIN/static",
+  "generatedFolder": "generated",
+  "statsOutput": "C:\\Users\\steve\\Downloads\\Parcial1_DAWfuncional\\target\\classes\\META-INF\\VAADIN\\config",
+  "frontendBundleOutput": "C:\\Users\\steve\\Downloads\\Parcial1_DAWfuncional\\target\\classes\\META-INF\\VAADIN\\webapp",
+  "devBundleOutput": "C:/Users/steve/Downloads/Parcial1_DAWfuncional/target/dev-bundle/webapp",
+  "devBundleStatsOutput": "C:/Users/steve/Downloads/Parcial1_DAWfuncional/target/dev-bundle/config",
+  "jarResourcesFolder": "C:/Users/steve/Downloads/Parcial1_DAWfuncional/src/main/frontend/generated/jar-resources",
+  "themeName": "",
+  "clientServiceWorkerSource": "C:\\Users\\steve\\Downloads\\Parcial1_DAWfuncional\\target\\sw.ts",
+  "pwaEnabled": false,
+  "offlineEnabled": false,
+  "offlinePath": "'offline.html'"
+}
