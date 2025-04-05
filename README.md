@@ -1,0 +1,1 @@
+Esta plataforma permite gestionar de forma eficiente las prácticas profesionales de estudiantes. Está diseñada para facilitar el registro, control y seguimiento de las horas prácticas, así como la gestión de estudiantes.
